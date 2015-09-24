@@ -1,0 +1,6 @@
+
+
+git init (starts a repo)
+git add -A . (we want to track everything!)
+git commit -m 'useful communiation' (save it!  with a helpful message)
+git push origin master (now put it up on the internet!)
